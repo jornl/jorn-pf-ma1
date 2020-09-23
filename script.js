@@ -12,7 +12,7 @@ var number = 32;
 
 // Question 4
 
-var division = 20/5;
+var division = 20 / 5;
 
 // Question 5
 
